@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fundamentals</string>
+    <string name="data_received_from_fragment_one">Data received from Fragment One</string>
+    <string name="data_for_fragment_one">Data for Fragment One</string>
 </resources>
